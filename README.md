@@ -1,14 +1,15 @@
 ## BEM-VINDOS! SOU O DUCAT1
 🎓 Atualmente, estou estudando:
 
-Linguagens de programação: Python, JavaScript, C++
+Linguagens de programação: Python, JavaScript, C++ 
 Tecnologias: HTML, CSS, React, Node.js
 Banco de Dados: MySQL, PostgreSQL
 Metodologias: Agile, Git e GitHub
+
 💻 Projetos em andamento:
 
-[Nome do Projeto 1]: Um [tipo de projeto] desenvolvido com [tecnologias utilizadas].
-[Nome do Projeto 2]: Um projeto de [descrição do projeto], focado em [objetivo ou funcionalidade principal].
+[Projeto loja virtual]: Um [tipo de projeto] desenvolvido com [html,css e js].
+[Xadez]: Um projeto de [Divertimento Próprio, usando Python], focado em [objetivo ou funcionalidade principal].
 
 🌱 O que estou aprendendo no momento:
 
