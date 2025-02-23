@@ -2,19 +2,24 @@
 🎓 Atualmente, estou estudando:
 
 Linguagens de programação: Python, JavaScript, C++ 
+
 Tecnologias: HTML, CSS, React, Node.js
+
 Banco de Dados: MySQL, PostgreSQL
+
 Metodologias: Agile, Git e GitHub
 
 💻 Projetos em andamento:
 
 [Projeto loja virtual]: Um [tipo de projeto] desenvolvido com [html,css e js].
+
 [Xadez]: Um projeto de [Divertimento Próprio, usando Python], focado em [objetivo ou funcionalidade principal].
 
 🌱 O que estou aprendendo no momento:
 
 [Tecnologia, framework ou conceito que está aprendendo]
 Como melhorar meu conhecimento em [área específica, como back-end, front-end, etc.]
+
 🚀 Objetivos:
 
 Continuar a desenvolver meus conhecimentos e habilidades em programação.
