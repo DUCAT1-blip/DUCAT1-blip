@@ -1,7 +1,5 @@
 ## BEM-VINDOS! SOU O DUCAT1
 - 📫 How to reach me: PARANÁ
-- 😄 Pronouns: ELE/DELE
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=DUCAT1-blip&show_icons=true&theme=default"
