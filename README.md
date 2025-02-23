@@ -1,6 +1,26 @@
 ## BEM-VINDOS! SOU O DUCAT1
-- 📫 How to reach me: PARANÁ
+🎓 Atualmente, estou estudando:
+
+Linguagens de programação: Python, JavaScript, C++
+Tecnologias: HTML, CSS, React, Node.js
+Banco de Dados: MySQL, PostgreSQL
+Metodologias: Agile, Git e GitHub
+💻 Projetos em andamento:
+
+[Nome do Projeto 1]: Um [tipo de projeto] desenvolvido com [tecnologias utilizadas].
+[Nome do Projeto 2]: Um projeto de [descrição do projeto], focado em [objetivo ou funcionalidade principal].
+
+🌱 O que estou aprendendo no momento:
+
+[Tecnologia, framework ou conceito que está aprendendo]
+Como melhorar meu conhecimento em [área específica, como back-end, front-end, etc.]
+🚀 Objetivos:
+
+Continuar a desenvolver meus conhecimentos e habilidades em programação.
+Contribuir para projetos open-source e colaborar com a comunidade.
+Aperfeiçoar minhas habilidades em [área específica de interesse, como IA, automação, etc.]
 <picture>
+
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=DUCAT1-blip&show_icons=true&theme=default"
     media="(prefers-color-scheme: dark)"
