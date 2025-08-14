@@ -1,6 +1,6 @@
 <!-- GIF animado com efeito neon no nome -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Neon&size=40&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=DUCAT1+DU;Full+Stack+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Neon&size=40&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=DUCAT1;Full+Stack+Developer" alt="Typing SVG">
 </h1>
 
 <!-- Contador de visitas -->
